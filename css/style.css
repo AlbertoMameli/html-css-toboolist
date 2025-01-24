@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(177, 210, 199);
+}
+
+
+.container-logo {
+    background-color: white;
+    width: 100%;
+    height: 70px;
+}
+
+
+.conteiner {
+    width: 80%;
+    height: 1000px;
+    background-color: white;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+
+
+.cont.task { 
+    border: 1px solid lightgrey;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 30px;
+    background-color: aqua;
+    display: inline-block;
+
+}
