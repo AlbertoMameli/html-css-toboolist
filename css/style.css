@@ -133,6 +133,11 @@ li {
     background-color: lightskyblue;
 }
 
+.gold {
+    background-color: rgb(255, 136, 0);
+
+}
+
 .web {
     background-color: rgb(201, 120, 201);
 }
