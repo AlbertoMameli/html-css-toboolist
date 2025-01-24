@@ -68,8 +68,7 @@ body {
 .to-do {
     background-color: white;
     width: 100%;
-
-    margin-top: 5px;
+    margin-top: 3px;
 
 }
 
@@ -105,8 +104,37 @@ ul {
     color: rgb(72, 172, 234);
     display: inline-block;
     text-align: center;
+}
+
+li {
+    margin-top: 10px;
+}
+
+.purple {
+    background-color: rgba(201, 26, 198, 0.864);
+}
 
 
+.cross {
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    border: 1px solid rgb(242, 67, 67);
+    border-radius: 50%;
+    color: rgb(242, 67, 67);
+    display: inline-block;
+    text-align: center;
+}
 
 
+.recruiting {
+    background-color: lightskyblue;
+}
+
+.web {
+    background-color: rgb(201, 120, 201);
+}
+
+.sales {
+    background-color: rgba(156, 230, 38, 0.91);
 }
