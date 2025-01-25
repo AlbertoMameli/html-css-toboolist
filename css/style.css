@@ -10,6 +10,7 @@ body {
     font-family: sans-serif;
 }
 
+/* regolazioni */
 
 .container-logo {
     background-color: white;
@@ -73,8 +74,12 @@ body {
 
 }
 
+/* fine regolazioni  */
 
 
+
+
+/* regole lista  */
 .lista {
 
     padding: 30px 0;
@@ -85,6 +90,13 @@ ul {
 
     list-style: none;
 }
+
+li {
+    margin-top: 10px;
+}
+
+/* fine regole lista  */
+
 
 
 
@@ -111,13 +123,8 @@ ul {
     font-size: 12px;
 }
 
-li {
-    margin-top: 10px;
-}
 
-.purple {
-    background-color: rgba(201, 26, 198, 0.864);
-}
+
 
 
 .cross {
@@ -132,7 +139,7 @@ li {
     text-align: center;
 }
 
-
+/* colori */
 .recruiting {
     background-color: lightskyblue;
 }
@@ -148,4 +155,9 @@ li {
 
 .sales {
     background-color: rgba(156, 230, 38, 0.91);
+}
+
+
+.purple {
+    background-color: rgba(201, 26, 198, 0.864);
 }
