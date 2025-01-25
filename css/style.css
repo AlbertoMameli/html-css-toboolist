@@ -6,7 +6,7 @@
 
 body {
     background-color: rgba(227, 244, 244, 0.745);
-    
+
     font-family: sans-serif;
 }
 
@@ -19,25 +19,36 @@ body {
 }
 
 
+
+
 .conteiner {
 
-    
+
     background-color: white;
     margin-left: 100px;
     margin-right: 100px;
-    background-color:rgba(227, 244, 244, 0.745);
+    background-color: rgba(227, 244, 244, 0.745);
     margin-top: 30px;
     margin-bottom: 50px;
+
 }
 
 
+
 .add {
-    padding: 10px;
-    padding-bottom: 25px;
+    padding: 20px 40px;
     background-color: white;
-    height: 30px;
+    height: 60px;
 
 
+
+
+}
+
+
+
+.subtitle {
+    padding: 20px 40px;
 }
 
 
@@ -51,6 +62,8 @@ body {
 
 
 
+
+
 }
 
 
@@ -60,6 +73,8 @@ body {
     padding-left: 5px;
     padding-right: 5px;
     display: inline-block;
+    position: absolute;
+
 
 
 }
@@ -72,6 +87,7 @@ body {
     width: 100%;
     margin-top: 2px;
 
+
 }
 
 /* fine regolazioni  */
@@ -82,7 +98,7 @@ body {
 /* regole lista  */
 .lista {
 
-    padding: 30px 0;
+    padding: 5px 0;
 }
 
 
