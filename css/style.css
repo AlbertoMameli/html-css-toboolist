@@ -36,9 +36,9 @@ body {
 
 
 .add {
-    padding: 20px 40px;
+    padding: 10px 40px;
     background-color: white;
-    height: 60px;
+    height: 40px;
 
 
 
@@ -73,7 +73,7 @@ body {
     padding-left: 5px;
     padding-right: 5px;
     display: inline-block;
-    position: absolute;
+    
 
 
 
